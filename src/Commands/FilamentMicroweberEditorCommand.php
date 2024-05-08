@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Papajin\FilamentMicroweberEditor\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentMicroweberEditorCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-microweber-editor';
 
     public $description = 'My command';
 
